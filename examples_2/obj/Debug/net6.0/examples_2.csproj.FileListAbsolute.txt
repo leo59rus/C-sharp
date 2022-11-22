@@ -1,0 +1,15 @@
+/home/leonid/Рабочий стол/C шарп/examples_2/bin/Debug/net6.0/examples_2
+/home/leonid/Рабочий стол/C шарп/examples_2/bin/Debug/net6.0/examples_2.deps.json
+/home/leonid/Рабочий стол/C шарп/examples_2/bin/Debug/net6.0/examples_2.runtimeconfig.json
+/home/leonid/Рабочий стол/C шарп/examples_2/bin/Debug/net6.0/examples_2.dll
+/home/leonid/Рабочий стол/C шарп/examples_2/bin/Debug/net6.0/examples_2.pdb
+/home/leonid/Рабочий стол/C шарп/examples_2/obj/Debug/net6.0/examples_2.csproj.AssemblyReference.cache
+/home/leonid/Рабочий стол/C шарп/examples_2/obj/Debug/net6.0/examples_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonid/Рабочий стол/C шарп/examples_2/obj/Debug/net6.0/examples_2.AssemblyInfoInputs.cache
+/home/leonid/Рабочий стол/C шарп/examples_2/obj/Debug/net6.0/examples_2.AssemblyInfo.cs
+/home/leonid/Рабочий стол/C шарп/examples_2/obj/Debug/net6.0/examples_2.csproj.CoreCompileInputs.cache
+/home/leonid/Рабочий стол/C шарп/examples_2/obj/Debug/net6.0/examples_2.dll
+/home/leonid/Рабочий стол/C шарп/examples_2/obj/Debug/net6.0/refint/examples_2.dll
+/home/leonid/Рабочий стол/C шарп/examples_2/obj/Debug/net6.0/examples_2.pdb
+/home/leonid/Рабочий стол/C шарп/examples_2/obj/Debug/net6.0/examples_2.genruntimeconfig.cache
+/home/leonid/Рабочий стол/C шарп/examples_2/obj/Debug/net6.0/ref/examples_2.dll
