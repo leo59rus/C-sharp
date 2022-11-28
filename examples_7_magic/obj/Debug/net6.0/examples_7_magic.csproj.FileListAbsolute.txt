@@ -1,0 +1,15 @@
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/bin/Debug/net6.0/examples_7_magic
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/bin/Debug/net6.0/examples_7_magic.deps.json
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/bin/Debug/net6.0/examples_7_magic.runtimeconfig.json
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/bin/Debug/net6.0/examples_7_magic.dll
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/bin/Debug/net6.0/examples_7_magic.pdb
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/obj/Debug/net6.0/examples_7_magic.csproj.AssemblyReference.cache
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/obj/Debug/net6.0/examples_7_magic.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/obj/Debug/net6.0/examples_7_magic.AssemblyInfoInputs.cache
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/obj/Debug/net6.0/examples_7_magic.AssemblyInfo.cs
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/obj/Debug/net6.0/examples_7_magic.csproj.CoreCompileInputs.cache
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/obj/Debug/net6.0/examples_7_magic.dll
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/obj/Debug/net6.0/refint/examples_7_magic.dll
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/obj/Debug/net6.0/examples_7_magic.pdb
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/obj/Debug/net6.0/examples_7_magic.genruntimeconfig.cache
+/home/leonid/Рабочий стол/C шарп/examples_7_magic/obj/Debug/net6.0/ref/examples_7_magic.dll
