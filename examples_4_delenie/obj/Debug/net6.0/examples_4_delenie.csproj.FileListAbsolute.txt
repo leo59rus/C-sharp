@@ -1,0 +1,15 @@
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/bin/Debug/net6.0/examples_4_delenie
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/bin/Debug/net6.0/examples_4_delenie.deps.json
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/bin/Debug/net6.0/examples_4_delenie.runtimeconfig.json
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/bin/Debug/net6.0/examples_4_delenie.dll
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/bin/Debug/net6.0/examples_4_delenie.pdb
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/obj/Debug/net6.0/examples_4_delenie.csproj.AssemblyReference.cache
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/obj/Debug/net6.0/examples_4_delenie.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/obj/Debug/net6.0/examples_4_delenie.AssemblyInfoInputs.cache
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/obj/Debug/net6.0/examples_4_delenie.AssemblyInfo.cs
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/obj/Debug/net6.0/examples_4_delenie.csproj.CoreCompileInputs.cache
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/obj/Debug/net6.0/examples_4_delenie.dll
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/obj/Debug/net6.0/refint/examples_4_delenie.dll
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/obj/Debug/net6.0/examples_4_delenie.pdb
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/obj/Debug/net6.0/examples_4_delenie.genruntimeconfig.cache
+/home/leonid/Рабочий стол/C шарп/examples_4_delenie/obj/Debug/net6.0/ref/examples_4_delenie.dll

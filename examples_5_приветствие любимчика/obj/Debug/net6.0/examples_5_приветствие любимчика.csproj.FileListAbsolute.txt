@@ -1,0 +1,15 @@
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/obj/Debug/net6.0/examples_5_приветствие любимчика.csproj.AssemblyReference.cache
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/obj/Debug/net6.0/examples_5_приветствие любимчика.GeneratedMSBuildEditorConfig.editorconfig
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/obj/Debug/net6.0/examples_5_приветствие любимчика.AssemblyInfoInputs.cache
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/obj/Debug/net6.0/examples_5_приветствие любимчика.AssemblyInfo.cs
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/obj/Debug/net6.0/examples_5_приветствие любимчика.csproj.CoreCompileInputs.cache
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/bin/Debug/net6.0/examples_5_приветствие любимчика
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/bin/Debug/net6.0/examples_5_приветствие любимчика.deps.json
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/bin/Debug/net6.0/examples_5_приветствие любимчика.runtimeconfig.json
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/bin/Debug/net6.0/examples_5_приветствие любимчика.dll
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/bin/Debug/net6.0/examples_5_приветствие любимчика.pdb
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/obj/Debug/net6.0/examples_5_приветствие любимчика.dll
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/obj/Debug/net6.0/refint/examples_5_приветствие любимчика.dll
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/obj/Debug/net6.0/examples_5_приветствие любимчика.pdb
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/obj/Debug/net6.0/examples_5_приветствие любимчика.genruntimeconfig.cache
+/home/leonid/Рабочий стол/C шарп/examples_5_приветствие любимчика/obj/Debug/net6.0/ref/examples_5_приветствие любимчика.dll
